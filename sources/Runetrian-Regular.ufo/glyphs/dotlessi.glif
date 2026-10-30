@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="160"/>
+  <unicode hex="0131"/>
+  <anchor x="80" y="704" name="top"/>
+  <anchor x="80" y="0" name="bottom"/>
+  <anchor x="80" y="0" name="ogonek"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+</glyph>

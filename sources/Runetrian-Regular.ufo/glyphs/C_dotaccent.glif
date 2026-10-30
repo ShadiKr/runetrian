@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="608"/>
+  <unicode hex="010A"/>
+  <anchor x="304" y="704" name="top"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="528" y="0" name="ogonek"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni0307" xOffset="304"/>
+  </outline>
+</glyph>

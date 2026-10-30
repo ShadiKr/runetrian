@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+sources/build.ninja
+sources/.ninja_log
+sources/instance_ufo/
+.DS_Store

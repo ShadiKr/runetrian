@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="864"/>
+  <unicode hex="0111"/>
+  <anchor x="432" y="704" name="top"/>
+  <anchor x="432" y="0" name="bottom"/>
+  <anchor x="784" y="0" name="ogonek"/>
+  <outline>
+    <component base="Dcroat"/>
+  </outline>
+</glyph>

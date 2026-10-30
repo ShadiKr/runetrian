@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="752"/>
+  <unicode hex="00FE"/>
+  <anchor x="376" y="704" name="top"/>
+  <anchor x="376" y="0" name="bottom"/>
+  <anchor x="672" y="0" name="ogonek"/>
+  <outline>
+    <component base="Thorn"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+sources:
+  - Runetrian-Regular.ufo
+familyName: Runetrian
+buildVariable: false
+buildStatic: true
+buildOTF: false
+buildWebfont: true
+autohintTTF: false
